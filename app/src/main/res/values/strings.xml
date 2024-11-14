@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidPractice2</string>
+    <string name="iron_man">Iron man</string>
+    <string name="spider_man">Spider-man</string>
+    <string name="captain_america">Captain america</string>
+    <string name="deadpool">Deadpool</string>
+    <string name="black_panther">Black panther</string>
+    <string name="wolverine">Wolverine</string>
+    <string name="cyclops">Cyclops</string>
+</resources>
